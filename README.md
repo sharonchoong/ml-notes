@@ -16,6 +16,9 @@ Includes:
 * Model output results export
 
 To explore:
+* Learning Rate Scheduler
+* RNN tf.dataset window splits
+* Stateful RNN
 * Regularization
 * Feature crosses
 * Plotting ROC curve
